@@ -13,10 +13,10 @@ Live-streaming lectures creates value for students by increasing flexibility and
 
 ## Data Visualizations
 ### Likes vs. Views by Topic (Line Chart)
-![Topic Comparison Line Chart](topic_comparison_line.png)
+![Topic Comparison Line Chart](comparison1.png)
 
 ### Likes vs. Views by Topic (Scatter Plot)
-![Topic Comparison Scatter Plot](topic_comparison_scatter.png)
+![Topic Comparison Scatter Plot](comparison2.png)
 
 ## Conclusion
 The survey data strongly supports adding lecture live-streams. Over 70% of students rated the idea 5-7 (agree/strongly agree).
